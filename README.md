@@ -1,0 +1,2 @@
+Predicting Post-Implantation Syndrome after EVAR using Machine Learning
+This repository contains the code and resources for the clinical prediction model developed in the study "Development of a practical machine learning model to predict post implantation syndrome after endovascular aneurysm repair". The study aims to predict the occurrence of post-implantation syndrome (PIS) following endovascular aneurysm repair (EVAR) using machine learning techniques.
